@@ -37,9 +37,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="exC4Uq3WzYqG1DK8ENrd-17" value="输入IP地址前缀" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exC4Uq3WzYqG1DK8ENrd-11">
+        <mxCell id="exC4Uq3WzYqG1DK8ENrd-17" value="输入IP地址&lt;div&gt;前缀&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exC4Uq3WzYqG1DK8ENrd-11">
           <mxGeometry x="-0.7875" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-16" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="exC4Uq3WzYqG1DK8ENrd-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
