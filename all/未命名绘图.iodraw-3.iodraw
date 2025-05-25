@@ -26,7 +26,7 @@
         </mxCell>
         <mxCell id="exC4Uq3WzYqG1DK8ENrd-38" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;地址1&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="exC4Uq3WzYqG1DK8ENrd-37">
           <mxGeometry x="0.116" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-5" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="exC4Uq3WzYqG1DK8ENrd-4" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;异或hash 2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
