@@ -84,6 +84,11 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="581" y="299.58" as="targetPoint" />
             <mxPoint x="501" y="299.5800000000001" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="541" y="300" />
+              <mxPoint x="541" y="320" />
+              <mxPoint x="581" y="320" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="exC4Uq3WzYqG1DK8ENrd-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;RAM 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
